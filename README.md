@@ -80,11 +80,9 @@ src/
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/8418435e-66bb-467a-8d15-64f58a609169" />
 
-<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/0d1c4e5a-a8a7-4263-a90a-37ca62a8da5b" />
-
-<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/d65dc41a-df12-49b5-99d4-21e54943c8a6" />
-
 ### Após cadastrar uma consulta com o Doutor João, se eu entrar na conta dele vai aparecer que tenho um paciente reservado.
+
+<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/0d1c4e5a-a8a7-4263-a90a-37ca62a8da5b" />
 
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/57e9e08d-f7ae-45a8-a24f-61b08aa38bb6" />
 
