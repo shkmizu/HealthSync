@@ -4,6 +4,7 @@
 * **Vitor Shimizu – RM550390** 
 * **Fabrizio Maia - RM551869**
 * **Victor Asfur - RM551684**
+* **André Sóler – RM98827**
 
 Um aplicativo mobile completo e reestruturado para agendamento e gestão de consultas médicas, focado em alta manutenibilidade, legibilidade e uma experiência de usuário consistente com a marca **HealthSync**.
 
