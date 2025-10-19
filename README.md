@@ -1,4 +1,4 @@
-# **HealthSync: Sistema de Gestão de Consultas Médicas**
+<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/36d095d4-1dad-43d6-a188-dc0154edae7f" /># **HealthSync: Sistema de Gestão de Consultas Médicas**
 
 ### **Integrantes do Grupo**
 * **Vitor Shimizu – RM550390** 
@@ -72,7 +72,25 @@ src/
 
 ## **IV. Screenshots do Aplicativo**
 
-Esta seção será preenchida com as capturas de tela do aplicativo após a compilação e execução.
+<img width="1918" height="1040" alt="image" src="https://github.com/user-attachments/assets/a3a3fe1f-2043-482c-9ded-10286d48bbd0" />
+
+<img width="1916" height="1041" alt="image" src="https://github.com/user-attachments/assets/40fc21c0-807a-4fea-9463-b0c73a7a051d" />
+
+<img width="1918" height="1044" alt="image" src="https://github.com/user-attachments/assets/106955ff-001e-4a49-b112-ee6d0c4e3b8d" />
+
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/8418435e-66bb-467a-8d15-64f58a609169" />
+
+<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/0d1c4e5a-a8a7-4263-a90a-37ca62a8da5b" />
+
+<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/d65dc41a-df12-49b5-99d4-21e54943c8a6" />
+
+### Após cadastrar uma consulta com o Doutor João, se eu entrar na conta dele vai aparecer que tenho um paciente reservado.
+
+<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/57e9e08d-f7ae-45a8-a24f-61b08aa38bb6" />
+
+### Confirmar a consulta
+
+<img width="1914" height="1040" alt="image" src="https://github.com/user-attachments/assets/06409954-dbdc-41c1-b999-74bb840a902a" />
 
 | Tela | Descrição | Imagem |
 | :---- | :---- | :---- |
