@@ -14,6 +14,8 @@ Um aplicativo mobile completo e reestruturado para agendamento e gestão de cons
 * **Nome do Aplicativo:** **HealthSync**  
 * **Conceito do Logotipo:** Símbolo que combina um traçado de **Eletrocardiograma (ECG)** com um ícone de **Conexão/Sincronização**, representando a união de dados de saúde e tecnologia.
 
+<img width="260" height="278" alt="healthsync" src="https://github.com/user-attachments/assets/3de4eaf7-0d8b-4d86-9056-00a3f4029fe9" />
+
 ### **Paleta de Cores e Justificativa (Aplicada em src/styles/theme.ts)**
 
 A paleta foi escolhida para evocar confiança, profissionalismo e modernidade, características essenciais na área da saúde digital.
