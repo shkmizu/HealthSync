@@ -110,9 +110,9 @@ Este projeto utiliza React Native com Expo. Siga os passos abaixo para configura
 ### **1\. Instalação das Dependências**
 
 Clone o repositório e instale as dependências.  
-\# Clone o repositório (substituir URL pelo seu repositório)  
+\# Clone o repositório
 git clone \[https://github.com/shkmizu/HealthSync]  
-cd marcacaoDeConsultasMedicas  
+cd HealthSync 
 \# Instala as dependências do package.json  
 npm install
 
