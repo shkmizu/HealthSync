@@ -1,4 +1,4 @@
-<img width="1914" height="1041" alt="image" src="https://github.com/user-attachments/assets/36d095d4-1dad-43d6-a188-dc0154edae7f" /># **HealthSync: Sistema de Gestão de Consultas Médicas**
+# **HealthSync: Sistema de Gestão de Consultas Médicas**
 
 ### **Integrantes do Grupo**
 * **Vitor Shimizu – RM550390** 
